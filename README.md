@@ -6,7 +6,7 @@ Camille Moore
 
 ##Summary:
 
-ensem_cctbx_mapmask.py computes a map and mask within 1A of all protein residues for a given pdb_file
+ensem_cctbx_mapmask.py computes a map and mask within 1A of all residues for a given pdb_file
 
 ##Example usage:
 
